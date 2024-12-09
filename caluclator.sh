@@ -8,3 +8,9 @@
 
 #Y=2-1
 
+#This is the division version
+
+#Z=3/2
+
+
+
